@@ -1,0 +1,52 @@
+body{
+
+  text-align: center;
+  background-color:#D3DEDC;
+}
+h1{
+    margin: 0 auto 0 auto;
+    font-family: 'Vollkorn', serif;
+
+}
+h2{
+    margin: 0 auto 0 auto;
+    font-family: 'Vollkorn', serif;
+}
+h3{
+    margin: 0 auto 0 auto;
+    font-family: 'Vollkorn', serif;
+}
+p{
+    font-family: 'Tangerine', cursive;
+}
+.top-container{
+    background-color: #D3DEDC;
+}
+
+.middel-container{
+ background-color: #D3DEDC;
+}
+.bottom-container .footer-link:hover{
+    background-color: red;
+   
+}
+.btn:hover{
+    background-color: red;
+}
+
+.Sarvesh{
+    text-decoration: underline;
+}
+.gmail{
+    position: relative;
+    right: 64px;
+}
+.top-img{
+position: relative;
+left: 210px;
+
+}
+.bottom-img{
+    position: absolute;
+}   
+  
